@@ -1,10 +1,10 @@
-# **Manejo de Git** #
+# **Git Management** #
 
-## ***Demostrar dominio de Git*** ##
+## ***Demonstrate Git Domain*** ##
 
-- Crear repositorio Local
-- Agregar archivos
-- Crear repositorio remoto (Github) (en la pagina)
-- Enlazar local con remoto
--Commit y Push
-- Fetch y Pull
+- Create Local repository
+- Add files
+- Create remote repository (Github) (on the page)
+- Link local with remote
+-Commit and Push
+- Fetch and Pull
